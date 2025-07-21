@@ -17,7 +17,7 @@ Traditional climate models are computationally expensive. We built a fast, high-
 
 ## 📁 Files
 - `climate_emulator_final_report.pdf`: Final research report
-- `model/`: Model architecture and training code
+- `models.py`: Model architecture and training code
 - `configs/`: Hydra configs
 - `train.py`, `eval.py`: Training & evaluation scripts
 
