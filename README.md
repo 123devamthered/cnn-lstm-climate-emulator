@@ -16,7 +16,7 @@ Traditional climate models are computationally expensive. We built a fast, high-
 - **Private Kaggle Score**: 0.7776 (Ranked 5th overall)
 
 ## 📁 Files
-- `report.pdf`: Final research report
+- `climate_emulator_final_report.pdf`: Final research report
 - `model/`: Model architecture and training code
 - `configs/`: Hydra configs
 - `train.py`, `eval.py`: Training & evaluation scripts
